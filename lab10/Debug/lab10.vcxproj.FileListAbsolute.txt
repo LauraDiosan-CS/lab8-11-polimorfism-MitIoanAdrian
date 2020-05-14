@@ -1,0 +1,2 @@
+C:\Users\Informatica\Desktop\lab10\Debug\lab10.exe
+C:\Users\Informatica\Desktop\lab10\Debug\lab10.pdb
